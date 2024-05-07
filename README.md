@@ -1,4 +1,4 @@
- [![MasterHead](https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg)
+ ![MasterHead](https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg)
 
 <h1 align="center">Hi 👋, I'm Taha Emre Sevgilice</h1>
 <h3 align="center">"Web tasarımı öğrencisi ve geliştirici | HTML5, CSS ve JavaScript'te deneyimli | Bootstrap ve Tailwind CSS ile arayüzler oluşturuyorum | ASP.NET Core MVC ile dinamik web uygulamaları geliştiriyorum | Teknolojiye karşı meraklı, sürekli öğrenmeye ve yenilikçi projeler üretmeye odaklıyım. 💻🌟</h3>
