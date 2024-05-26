@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools:</h3> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,angular,tailwind,bootstrap,php,laravel,sqlite" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,angular,tailwind,bootstrap,php,laravel" />
   </a>
 </p>
 <h3 align="left">Programs he Uses:</h3>
