@@ -5,6 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
+<a href="mailto:tahaemresevgilice637@gmail.com" target="blank">
+   <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 <a href="https://twitter.com/emre_sevgilice" target="blank">
    <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
@@ -13,9 +16,6 @@
 </a>
 <a href="https://linkedin.com/in/taha-emre-sevgilice-b69516297" target="blank">
    <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
- <a href="https://linkedin.com/in/taha-emre-sevgilice-b69516297" target="blank">
-   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
 
