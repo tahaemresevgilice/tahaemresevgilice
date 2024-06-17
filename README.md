@@ -14,6 +14,9 @@
 <a href="https://linkedin.com/in/taha-emre-sevgilice-b69516297" target="blank">
    <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+ <a href="https://linkedin.com/in/taha-emre-sevgilice-b69516297" target="blank">
+   <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3> 
