@@ -11,7 +11,7 @@
 <a href="https://twitter.com/emre_sevgilice" target="blank">
    <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
-<a href="https://instagram.com/scary.emre" target="blank">
+<a href="https://instagram.com/tahaemres" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 <a href="https://linkedin.com/in/taha-emre-sevgilice-b69516297" target="blank">
